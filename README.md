@@ -2,7 +2,7 @@
 GUI that opens two .trc files and compares them line by line or frame by frame to verify if the payload parts are identical or not
 
 
-#### 1) Open `TrcCmp_V1_0` in `dist` folder 
+#### 1) Open the executable `TrcCmp_V1_0` in `dist` folder 
 ![alt text](https://github.com/RamiMarzougui/PEAK-CAN-TRC-file-compare/blob/main/screenshots/trc_cmp_gui_logo.PNG?raw=true)
 
 #### 2) Click on `Open File 1` and select the first .trc file
